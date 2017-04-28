@@ -1,0 +1,15 @@
+.container{
+    padding: 70px 10px;
+}
+
+.card-block h3{
+    font-size: 1.3rem;
+}
+
+.card-block p{
+    margin-top: -5px;
+}
+
+.card-block img{
+    width: 2.5rem;
+}
